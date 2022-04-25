@@ -14,7 +14,8 @@ Accuracy, and test/train loss plots:
 
 ![](images/train_loss.png)
 
-![](images/test_loss.png)
+![](images/Val_loss.png)
 
-![](images/accuracy.png)
+![](images/Val_accuracy.png)
 
+![](images/lr.png)
