@@ -9,7 +9,7 @@ PerceiverIO Paper, found at https://arxiv.org/abs/2107.14795
 
 ##Pereiver Architecture
 
-<img src="./perceiver-architecture.png" width="600px"></img>
+<img src="./perceiverIO.png" width="600px"></img>
 
 ## PerceiverIO
 The PerceiverIO used in this model is lucidrains's implemenation, found at https://github.com/lucidrains/perceiver-pytorch.
