@@ -6,6 +6,9 @@
 Training and testing deep-mind's perceiverIO model for image classification task.
 
 PerceiverIO Paper, found at https://arxiv.org/abs/2107.14795
+
+##Pereiver Architecture
+
 <img src="./perceiver-architecture.png" width="600px"></img>
 
 ## PerceiverIO
